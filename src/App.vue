@@ -20,7 +20,7 @@ function openLink(type) {
   switch (type) {
     case 'line':
       console.log('line')
-      window.location.href = ''
+      window.location.href = 'https://line.me/ti/p/NSRiQJtG8_'
       break;
 
     case 'whatsapp':
